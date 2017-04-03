@@ -1,4 +1,4 @@
-# geotarget_sendy
+# geotarget_sendy - A geo plugin for Sendy
 Create geo-targeted lists for Sendy. This will allow you to create lists based off of user's locations based on existing subscriber lists within Sendy.
 
 HOW TO INSTALL:
