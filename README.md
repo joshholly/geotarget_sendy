@@ -19,3 +19,8 @@ HOW TO USE:
 
 3. Enter the name of the new list, select the parent list, add the zip code and the radius and create the list
 
+
+
+REQUIREMENTS: 
+
+Must have Sendy along with requirements installed. The parent list must have users with their zip codes added in the custom fields. 
